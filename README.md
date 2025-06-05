@@ -53,6 +53,7 @@ FROM employees e
 JOIN salaries s ON e.emp_id = s.emp_id
 ORDER BY s.salary DESC
 LIMIT 5;
+```
 
 ---
 
@@ -62,6 +63,8 @@ Import the .sql files in any SQL tool (e.g., MySQL Workbench, PostgreSQL, SQLite
 Run the CREATE TABLE and INSERT statements.
 
 Execute the queries to view the results.
+
+---
 
 ## 🙌 Author
 Name: Madhav Ganorkar
