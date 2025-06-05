@@ -68,4 +68,5 @@ Execute the queries to view the results.
 
 ## 🙌 Author
 Name: Madhav Ganorkar
+
 Assignment: SQL Query Writing – Masai School
